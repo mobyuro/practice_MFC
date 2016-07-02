@@ -27,3 +27,12 @@
 *.exe
 *.out
 *.app
+
+*.VC.opendb
+*.VC.db
+*.suo
+*.sdf
+
+ipch/
+Debug/
+Release/
